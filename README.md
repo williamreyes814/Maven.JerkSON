@@ -35,7 +35,7 @@ NaMe:egGS;prICE@3.23;typE^foOd;eXPiRAtIOn%1/24/2016##
 
 ### Some tidbits
 All string manipulation should be achieved through regex to detect and match patterns.
-Its not guranteed that every Key will have a Value, and every Value will have a pair. For instance:
+Its not guaranteed that every Key will have a Value, and every Value will have a pair. For instance:
 
 you may see something like this
 `Name:Milk;Price:3.23;type:;expiration:1/24/2016##`
@@ -43,5 +43,7 @@ you may see something like this
 Notice how TYPE has a key but no Value.... if you try and parse this into an object your program could crash.
 You will need to handle your exceptions!
 I also expect you to report on how many exceptions you saw while parsing the data.
+
+And then finally, for each grocery item, built a quick text output of High/Low and and Average value for the things on the list.
 GOOD LUCK ZIPCODERS!!!! May the Odds be ever in your favor!!!!
 
