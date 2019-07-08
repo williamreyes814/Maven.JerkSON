@@ -43,6 +43,7 @@ you may see something like this
 Notice how TYPE has a key but no Value.... if you try and parse this into an object your program could crash.
 You will need to handle your exceptions!
 I also expect you to report on how many exceptions you saw while parsing the data.
+Write a few tests, for each "sub stage" of your code.
 
 And then finally, for each grocery item, built a quick text output of High/Low and and Average value for the things on the list.
 GOOD LUCK ZIPCODERS!!!! May the Odds be ever in your favor!!!!
